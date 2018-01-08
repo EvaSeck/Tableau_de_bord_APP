@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Tableau_de_bord_APP">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="Tableau_de_bord_APP"/>
+        <property name="java-output-path" value="/Tableau_de_bord_APP/build/classes"/>
+    </wb-module>
+</project-modules>
